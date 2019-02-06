@@ -7,7 +7,7 @@ export default class MovieShowcase extends Component {
   generateMovieCards = () => {
     return movieData.map((movie) => {
       {
-    } 
+    }) 
   }
 
   render() {
